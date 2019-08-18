@@ -1,0 +1,11 @@
+Instructions for Assignment 4 Game:
+
+Purpose of the game is to try built something cool.
+
+Mouse:
+
+	- Left Mouse: Add blokcs
+
+	- Right Mouse: Delete blokcs
+
+	- ESC: quits the game
